@@ -124,6 +124,4 @@ We get one of the first ones off the factory line and are making it a super fast
 <div style="text-align:center"><img src ="https://github.com/jake-g/Vehicle-Infotainment-Center/raw/gh-pages/_images/cropped-camaro.png" /></div>
 
 <br>
-
-<img src="https://github.com/jake-g/Vehicle-Infotainment-Center/raw/gh-pages/_images/github.png" width="25" height="25">
-<a href="https://github.com/jake-g/Vehicle-Infotainment-Center">View On <strong>GitHub</strong></a></li>
+ <a href="https://github.com/jake-g/Vehicle-Infotainment-Center">View On <strong>GitHub</strong></a></li></div><div style="text-align:left">
