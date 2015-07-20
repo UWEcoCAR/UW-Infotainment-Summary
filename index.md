@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![alt text](_images/banner.png)
+![alt text](https://github.com/jake-g/Vehicle-Infotainment-Center/raw/gh-pages/_images/banner.png)
 
 #Vehicle Infotainment Center
 
@@ -121,8 +121,9 @@ Contact Jake Garrison directly at <jakehgarrison@gmail.com> with a resume (if yo
 We get one of the first ones off the factory line and are making it a super fast hybrid! You can be part of this.
 
 <br>
-<div style="text-align:center"><img src ="_images/cropped-camaro.png" /></div>
+<div style="text-align:center"><img src ="https://github.com/jake-g/Vehicle-Infotainment-Center/raw/gh-pages/_images/cropped-camaro.png" /></div>
 
 <br>
-<img src="_images/github.png" width="25" height="25">
+
+<img src="https://github.com/jake-g/Vehicle-Infotainment-Center/raw/gh-pages/_images/github.png" width="25" height="25">
 <a href="https://github.com/jake-g/Vehicle-Infotainment-Center">View On <strong>GitHub</strong></a></li>
