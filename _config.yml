@@ -1,0 +1,10 @@
+# Site settings
+name: Open Vehicle Infotainment Center
+tag_text:
+description:
+
+# Build settings
+markdown: rdiscount
+highlighter: pygments
+
+exclude: ["INSTALL.md"]
