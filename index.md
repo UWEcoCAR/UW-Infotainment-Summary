@@ -109,7 +109,7 @@ This is a software, hardware and design project driven by data and user experien
 We expect a minimum of 8 hrs per week from everyone on the team, however depending on your role and level of commitment this will obviously grow. UW EcoCAR team members considered as 'dedicated' easily spend 30+ hrs a week on the project. Those considered dedicated will likely have leadership and travel opportunities.
 
 ##Apply
-For now contact Jake Garrison directly at <jakehgarrison@gmail.com> with some background info and what you are hoping to contribute and why you are interested. You may also apply more formally [here](https://catalyst.uw.edu/webq/survey/jlgoin/243177), but this application is not specific for this project.
+Contact Jake Garrison directly at <jakehgarrison@gmail.com> with a resume (if you have one), some background info and what you are hoping to contribute and why you are interested. You may also apply more formally [here](https://catalyst.uw.edu/webq/survey/jlgoin/243177), but this application is not specific for this project.
 
 Fork this project on [Github](https://github.com/jake-g/Vehicle-Infotainment-Center)
 
