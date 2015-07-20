@@ -11,4 +11,3 @@ For hosting a single markdown file
 * View page at <http://127.0.0.1:4000/>
 * Upload as a [gh page](https://help.github.com/articles/creating-project-pages-manually/)
 
-Page based off [Solo](https://github.com/chibicode/solo)
