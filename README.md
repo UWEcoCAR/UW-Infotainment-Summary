@@ -1,6 +1,8 @@
 
 # Single Page Markdown
 
+######The project site is published __[here](http://jake-g.github.io/Vehicle-Infotainment-Center)__
+
 For hosting a simple markdown file:
 
 * Fork this repo
