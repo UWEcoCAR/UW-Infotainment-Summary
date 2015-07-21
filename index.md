@@ -5,6 +5,9 @@ layout: default
 
 #Vehicle Infotainment Center
 
+######Too excited to read? __[Apply Here](http://goo.gl/forms/DbPqCebwa7)__
+
+
 ####Goal
 Develop an open source UI infotainment platform for vehicles that communicates with vehicle hardware and cloud based services to deliver media, autopilot, driving statistics and diagnostics in order to enhance safety and user experience.
 
@@ -98,6 +101,7 @@ This is a software, hardware and design project driven by data and user experien
 * Knowledge of CAN protocol (UDS, ODX)
 * Data science
 * Github version control
+* Adobe design tools
 * Programming
   * NodeJS
   * Ruby (Sass)
@@ -107,21 +111,23 @@ This is a software, hardware and design project driven by data and user experien
   * Python and Bash scripting
   * Google maps API
   * Cloud networking
-  * Music Player Daemon (MPD)
   * Matlab
 
 ####Expectations
 We expect a minimum of 8 hrs per week from everyone on the team, however depending on your role and level of commitment this will obviously grow. UW EcoCAR team members considered as 'dedicated' easily spend 30+ hrs a week on the project. Those considered dedicated will likely have leadership and travel opportunities.
 
 ##Apply
-Contact Jake Garrison directly at <jakehgarrison@gmail.com> with a resume (if you have one), some background info and what you are hoping to contribute and why you are interested. You may also apply more formally [here](https://catalyst.uw.edu/webq/survey/jlgoin/243177), but this application is not specific for this project.
+You are highly encouraged to __[apply here](http://goo.gl/forms/DbPqCebwa7)__ as soon as possible before the team fills up.
+
+After applying contact Jake Garrison directly at <jakehgarrison@gmail.com> to say hi, share a resume, provide some info on past projects or outline what you want to get out of this.
 
 
-###### 2016 Camaro
-We get one of the first ones off the factory line and are making it a super fast hybrid! You can be part of this.
+ <a href="https://github.com/jake-g/Vehicle-Infotainment-Center">View project on <strong>GitHub</strong></a></li></div><div style="text-align:left">
+
+#### 2016 Chevrolet Camaro
+We get one of the first ones off the factory line and are making it a super fast hybrid! Yes, we will get to test it's top speed and all the features we are implementing.
+
+__You__ can be part of this.
 
 <br>
 <div style="text-align:center"><img src ="https://github.com/jake-g/Vehicle-Infotainment-Center/raw/gh-pages/_images/cropped-camaro.png" /></div>
-
-<br>
- <a href="https://github.com/jake-g/Vehicle-Infotainment-Center">View On <strong>GitHub</strong></a></li></div><div style="text-align:left">
