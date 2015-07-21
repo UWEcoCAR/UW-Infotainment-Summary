@@ -5,7 +5,7 @@ layout: default
 
 #Vehicle Infotainment Center
 
-######Too excited to read? __[Apply Here](http://goo.gl/forms/DbPqCebwa7)__
+Too excited to read? __[Apply Here](http://goo.gl/forms/DbPqCebwa7)__
 
 
 ####Goal
@@ -122,8 +122,6 @@ You are highly encouraged to __[apply here](http://goo.gl/forms/DbPqCebwa7)__ as
 After applying contact Jake Garrison directly at <jakehgarrison@gmail.com> to say hi, share a resume, provide some info on past projects or outline what you want to get out of this.
 
 
- <a href="https://github.com/jake-g/Vehicle-Infotainment-Center">View project on <strong>GitHub</strong></a></li></div><div style="text-align:left">
-
 #### 2016 Chevrolet Camaro
 We get one of the first ones off the factory line and are making it a super fast hybrid! Yes, we will get to test it's top speed and all the features we are implementing.
 
@@ -131,3 +129,6 @@ __You__ can be part of this.
 
 <br>
 <div style="text-align:center"><img src ="https://github.com/jake-g/Vehicle-Infotainment-Center/raw/gh-pages/_images/cropped-camaro.png" /></div>
+
+<br>
+<a href="https://github.com/jake-g/Vehicle-Infotainment-Center">View project on <strong>GitHub</strong></a></li></div><div style="text-align:left">
