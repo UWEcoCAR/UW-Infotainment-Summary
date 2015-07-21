@@ -5,8 +5,6 @@ layout: default
 
 #Vehicle Infotainment Center
 
-Too excited to read? __[Apply Here](http://goo.gl/forms/DbPqCebwa7)__
-
 
 ####Goal
 Develop an open source UI infotainment platform for vehicles that communicates with vehicle hardware and cloud based services to deliver media, autopilot, driving statistics and diagnostics in order to enhance safety and user experience.
