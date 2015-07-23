@@ -117,7 +117,7 @@ We expect a minimum of 8 hrs per week from everyone on the team, however dependi
 ##Apply
 You are highly encouraged to __[apply here](http://goo.gl/forms/DbPqCebwa7)__ as soon as possible before the team fills up.
 
-After applying contact Jake Garrison directly at <jakehgarrison@gmail.com> to say hi, share a resume, provide some info on past projects or outline what you want to get out of this.
+After applying email <uw.infotainment@gmail.com> to say hi, share a resume, provide some info on past projects or outline what you want to get out of this.
 
 
 #### 2016 Chevrolet Camaro
