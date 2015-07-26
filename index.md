@@ -53,7 +53,7 @@ The automotive industry is flooded with dated, proprietary technologies. With th
 The canvas will be a touchscreen interface with simplicity as the forefront of the UI. Unlike a phone which is always in near the users face, this will be a supplement the the driving experience and not a distraction. This means the design focus will be smoothness and ease of use rather than animations and flashy menus. All main functions must be easily accessible and executable with minimal driver distraction. If you have ever interacted with the UI of a modern car, you probably have noticed how dated, ugly and limited they are. We aim to bring the IOS and Android style interfaces that users are used to into the vehicle. Such interfaces will include the main screen, and a mobile app with the possibility of a HUD or cluster display.
 
 ####Engineering
-We have a pre-existing [Github repository](https://github.com/UWEcoCAR/UWCenterStack) with an old build to start from. This was written in Javascript and utilizes the Node webkit and Ruby Sass. It is run on a Debian linux kernel on a mini computer. Developers will use a distributed VM or embedded device for development. We are open to building off of this or starting from scratch depending on the team's input. We also have CAN drivers for interfacing with the lower level vehicle controls. We have plans for using python scripting for some of the backend media daemons and Google's maps api for navigation. Autonomous related features will likely utilize OpenCV and machine learning libraries in python. Many of these elements are flexible and up for discussion.
+We have a pre-existing [Github repository](https://github.com/UWEcoCAR/UWCenterStack) with an old build to start from. This was written in Javascript and utilizes the Node webkit. It is run on a Debian linux kernel on a mini computer. Developers will use a distributed VM or embedded device for development. We are open to building off of this or starting from scratch depending on the team's input. We also have CAN drivers for interfacing with the lower level vehicle controls. We have plans for using python scripting for some of the backend media daemons and Google's maps api for navigation. Autonomous related features will likely utilize OpenCV and machine learning libraries in Python. Many of these elements are flexible and up for discussion. We are also looking into ReactJS by Facebook and the Electron runtime developed by Github to generate our frontend interface.
 
 ##Team
 This project is a subset of the [UW EcoCAR 3](http://uwecocar.com/index.html) project which is a funded four year project that involves converting a 2016 Camaro into a cutting edge hybrid. The vehicle lab is located on the UW campus and will be accessible by those on the team. We will be using the Camaro as a test vehicle for the infotainment system, however the design intent is to design it to be compatible with all modern vehicles. Some features, like the Camaro autopilot, will require NDA's and need to remain private. This is because they rely on donated cutting edge hardware that we could never afford. We can eventually generalize our algorithms to work on generic hardware that anyone can use.
@@ -97,18 +97,18 @@ This is a software, hardware and design project driven by data and user experien
 * Linux and virtual machine familiarity
 * Computer Vision and machine learning
 * Knowledge of CAN protocol (UDS, ODX)
-* Data science
+* Data visualization
 * Github version control
 * Adobe design tools
 * Programming
-  * NodeJS
-  * Ruby (Sass)
+  * Javascript (Coffeescript)
+  * ReactJS
   * CSS/HTML
   * Embedded C
-  * IOS and Android
-  * Python and Bash scripting
+  * Python
   * Google maps API
   * Cloud networking
+  * IOS and Android
   * Matlab
 
 ####Expectations
