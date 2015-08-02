@@ -24,7 +24,7 @@ The automotive industry is flooded with dated, proprietary technologies. With th
   * Mobile remote
 * Navigation
   * Google maps API
-  * Smart Navigation (time vs money vs efficiancy)
+  * Smart Navigation (time vs money vs efficiency)
 * Web Browser
 * Notifications
   * Email
@@ -33,9 +33,7 @@ The automotive industry is flooded with dated, proprietary technologies. With th
 
 #### Features
 * Autopilot features
-  * Lane assist
-  * Backup assist
-  * Parking assist
+  * Lane, backup, parking assist
   * Eye tracking
   * Optimization features
 * Mobile Phone Integration
