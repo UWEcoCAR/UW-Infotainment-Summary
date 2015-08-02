@@ -12,45 +12,53 @@ Develop an open source UI infotainment platform for vehicles that communicates w
 ####Impact
 The automotive industry is flooded with dated, proprietary technologies. With the growing number of open source projects and communities on the internet, now is a great time to help push the open source wave into the automotive market. Ford has recently opened some of it's technology by providing a very limited API, and Tesla is shattering standards by releasing patents. There has yet to be a truly open source, extendable infotainment system for vehicles. We want to change that.
 
-##Features
-* Full vehicle control over CAN
-  * Media
-  * Climate control
-  * Seat position
+##Functionality
+#### Apps
+* Phone
+  * Bluetooth handsfree
+  * Contact browser
+* Music
+  * Local/Bluetooth Music Player
+  * Cloud radio
+  * Smart auto playlists
+  * Mobile remote
 * Navigation
-  * Using Google maps API
-  * Optimized for hybrid
+  * Google maps API
+  * Smart Navigation (time vs money vs efficiancy)
+* Web Browser
+* Notifications
+  * Email
+  * Calendar
+  * Text
+
+#### Features
 * Autopilot features
   * Lane assist
   * Backup assist
   * Parking assist
+  * Eye tracking
   * Optimization features
-* Statistics
-  * Hybrid drivetrain
-  * Fuel efficiency
-  * Battery information
-  * Low fuel/charge Warning
-  * Driver statistics
-* Media control
-  * Local/Bluetooth Music Player
-  * Web browser
-  * Email/Calendar/Notifications
-  * Cloud radio
-  * Auto playlists
 * Mobile Phone Integration
-  * IOS and Android
+  * Web, IOS and Android client
   * Bluetooth handsfree
   * Remote controlled features
+    * Music control
     * Climate control
     * Smart Charging
     * Find my car
-* Safety
-  * Eye Tracking
-  * Autopilot assist
-  * Warning tones
+* Visualization Metrics
+  * Visual driver statistics
+  * Hybrid vehicle mode display
+  * Fuel efficiency
+  * Battery information
+  * Low fuel/charge indicator
+* Vehicle control over CAN
+  * Steering wheel buttons
+  * Climate control
+  * Various sensors
 
 ####Design
-The canvas will be a touchscreen interface with simplicity as the forefront of the UI. Unlike a phone which is always in near the users face, this will be a supplement the the driving experience and not a distraction. This means the design focus will be smoothness and ease of use rather than animations and flashy menus. All main functions must be easily accessible and executable with minimal driver distraction. If you have ever interacted with the UI of a modern car, you probably have noticed how dated, ugly and limited they are. We aim to bring the IOS and Android style interfaces that users are used to into the vehicle. Such interfaces will include the main screen, and a mobile app with the possibility of a HUD or cluster display.
+The canvas will be a touchscreen interface with simplicity as the forefront of the UI. Unlike a phone which is always in near the users face, this will be a supplement the the driving experience and not a distraction. This means the design focus will be smoothness and ease of use rather than animations and flashy menus. All main functions must be easily accessible and executable with minimal driver distraction. If you have ever interacted with the UI of a modern car, you probably have noticed how dated, ugly and limited they are. We aim to bring the IOS and Android style interfaces that users are used to into the vehicle. Such interfaces will include the main screen, and a mobile app with the possibility of a HUD or cluster display. Additionally, we aim to provide elegant visual metrics to aid the driver in learning and improving their driving patterns.
 
 ####Engineering
 We have a pre-existing [Github repository](https://github.com/UWEcoCAR/UWCenterStack) with an old build to start from. This was written in Javascript and utilizes the Node webkit. It is run on a Debian linux kernel on a mini computer. Developers will use a distributed VM or embedded device for development. We are open to building off of this or starting from scratch depending on the team's input. We also have CAN drivers for interfacing with the lower level vehicle controls. We have plans for using python scripting for some of the backend media daemons and Google's maps api for navigation. Autonomous related features will likely utilize OpenCV and machine learning libraries in Python. Many of these elements are flexible and up for discussion. We are also looking into ReactJS by Facebook and the Electron runtime developed by Github to generate our frontend interface.
@@ -67,26 +75,16 @@ The team will be multidisciplinary and not very restrictive as to who can join. 
   * Time to contribute
   * Idea of what you want to contribute
 
-####Majors
-The listed UW departments listed will be contacted as well. If you are a student or prospective student in any of these majors, this project is probably for you!
-
-* Computer Science/Engineering
-* Design school
-* Electrical Engineering
-* Human Centered Design & Engineering
-* Information school
-* Industrial Engineering
-* Business school
-
 ####Roles
 Here is a rough idea of the roles we will be filling. These roles will likely become small subteams
 
-* Frontend design
-* Backend architecture
-* UI/UX
+* Frontend
+* Backend
+* User interface (UI)
+* User experience (UX)
 * Embedded programming
-* Signal and image processing
-* Project management
+* Signal and image processing (DSP)
+* Project management (PM)
 
 ####Skills
 The outlined skills provide an idea of the projected disciplines and programming environments we plan on utilizing.  The skills listed are preferred but not a requirement to join but provide some insight into what we will be dealing with.
@@ -98,8 +96,7 @@ This is a software, hardware and design project driven by data and user experien
 * Computer Vision and machine learning
 * Knowledge of CAN protocol (UDS, ODX)
 * Data visualization
-* Github version control
-* Adobe design tools
+* Adobe or Sketch design tools
 * Programming
   * Javascript (Coffeescript)
   * ReactJS
@@ -112,7 +109,7 @@ This is a software, hardware and design project driven by data and user experien
   * Matlab
 
 ####Expectations
-We expect a minimum of 8 hrs per week from everyone on the team, however depending on your role and level of commitment this will obviously grow. UW EcoCAR team members considered as 'dedicated' easily spend 30+ hrs a week on the project. Those considered dedicated will likely have leadership and travel opportunities.
+We expect a __minimum of 8 hrs per week__ from everyone on the team. UW EcoCAR team members considered as *dedicated* easily spend 30+ hours per week on the project. Those considered dedicated will likely have leadership and travel opportunities.
 
 ##Apply
 You are highly encouraged to __[apply here](http://goo.gl/forms/DbPqCebwa7)__ as soon as possible before the team fills up.
