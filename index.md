@@ -39,19 +39,17 @@ The automotive industry is flooded with dated, proprietary technologies. With th
 * Mobile Phone Integration
   * Web, IOS and Android client
   * Bluetooth handsfree
-  * Remote controlled features
-   * Music control
-   * Climate control
-   * Smart Charging
-   * Find my car
+  * Music control
+  * Climate control
+  * Smart Charging
+  * Find my car
 * Visualization Metrics
   * Visual driver statistics
   * Hybrid vehicle mode display
-  * Health Monitor
-   * Fuel efficiency
-   * Battery information
-   * Low fuel/charge indicator
-   * Car diagnostics
+  * Fuel efficiency
+  * Battery information
+  * Low fuel/charge indicator
+  * Car diagnostics
 * Vehicle control over CAN
   * Steering wheel buttons
   * Climate control
