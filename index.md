@@ -24,7 +24,7 @@ The automotive industry is flooded with dated, proprietary technologies. With th
   * Mobile remote
 * Navigation
   * Google maps API
-  * Smart Navigation (time vs money vs efficiancy)
+  * Smart Navigation (time vs money vs efficiency)
 * Web Browser
 * Notifications
   * Email
@@ -33,25 +33,23 @@ The automotive industry is flooded with dated, proprietary technologies. With th
 
 #### Features
 * Autopilot features
-  * Lane assist
-  * Backup assist
-  * Parking assist
+  * Lane, backup, parking assist
   * Eye tracking
   * Optimization features
 * Mobile Phone Integration
   * Web, IOS and Android client
   * Bluetooth handsfree
-  * Remote controlled features
-    * Music control
-    * Climate control
-    * Smart Charging
-    * Find my car
+  * Music control
+  * Climate control
+  * Smart Charging
+  * Find my car
 * Visualization Metrics
   * Visual driver statistics
   * Hybrid vehicle mode display
   * Fuel efficiency
   * Battery information
   * Low fuel/charge indicator
+  * Car diagnostics
 * Vehicle control over CAN
   * Steering wheel buttons
   * Climate control
